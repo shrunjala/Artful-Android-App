@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514310243439",
+    "firebase_url": "https://artful-62cf2.firebaseio.com",
+    "project_id": "artful-62cf2",
+    "storage_bucket": "artful-62cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514310243439:android:f84581983a2b545176b99a",
+        "android_client_info": {
+          "package_name": "com.example.artful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514310243439-v9cvf7prd1jp3tet9qhahvi5u0m06h3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artful",
+            "certificate_hash": "d41efd05e6f384238fa49bf4f872376c13e02cc5"
+          }
+        },
+        {
+          "client_id": "514310243439-opbd72qsuptead24bpnsfh51223gtbuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4K1_4QTVIW4RyYE4l5HxMMCiZxOt-V-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514310243439-opbd72qsuptead24bpnsfh51223gtbuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
